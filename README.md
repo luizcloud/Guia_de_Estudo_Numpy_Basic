@@ -1,0 +1,1 @@
+# N-vel-B-sico---Guia-de-Estudo-NumPy

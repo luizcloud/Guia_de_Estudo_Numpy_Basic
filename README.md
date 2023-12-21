@@ -1,1 +1,1 @@
-# N-vel-B-sico---Guia-de-Estudo-NumPy
+# Guia_de_Estudo_Numpy_Basic
